@@ -10,6 +10,12 @@ Hello! I’m deeply passionate about leveraging technology and scientific princi
 * ✉️  You can contact me at [armandogabrieljl@gmail.com](mailto:armandogabrieljl@gmail.com)
 * 🧠  I'm learning web page development
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabZzL/GabZzL/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabZzL/GabZzL/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/GabZzL/GabZzL/output/github-snake.svg" />
+</picture>
+
 ### Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
